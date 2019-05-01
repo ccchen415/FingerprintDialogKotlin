@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:17:1-48:12
+INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:17:1-48:12
+INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:17:1-48:12
+INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:17:1-48:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/cd84dd8fd3d9646b8aa32c7673e5f2fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/8c0a97f858bb3295486f1943de4021e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/356c2bb0859db1357261ffeafbd9a90f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/9e5c23b49384dfe5fcf2d3518967b802/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/544a5f3fa01b5b693dd23197c5998eae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/895f41ab08c63d7baef89241dc97d207/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/b9ac6d3d7001beeacef80c951a5f5642/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/da5f4260546bb8a09328e3d5d8d528e2/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:17:1-48:12
+INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:17:1-48:12
+INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:17:1-48:12
+	package
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:17:11-58
+		INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:19:5-51
+	xmlns:android
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:18:5-63
+	android:versionCode
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:23:22-71
+application
+ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:25:5-47:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/da5f4260546bb8a09328e3d5d8d528e2/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/da5f4260546bb8a09328e3d5d8d528e2/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:28:9-49
+	tools:ignore
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:31:9-48
+	android:icon
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:30:9-53
+activity#com.example.android.fingerprintdialog.MainActivity
+ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:35:13-53
+	android:theme
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:39:27-74
+activity#com.example.android.fingerprintdialog.SettingsActivity
+ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:43:9-46:57
+	android:parentActivityName
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:46:13-55
+	android:label
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:45:13-52
+	android:name
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml:44:13-45
+uses-sdk
+INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/cd84dd8fd3d9646b8aa32c7673e5f2fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/cd84dd8fd3d9646b8aa32c7673e5f2fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/8c0a97f858bb3295486f1943de4021e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/8c0a97f858bb3295486f1943de4021e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/356c2bb0859db1357261ffeafbd9a90f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/356c2bb0859db1357261ffeafbd9a90f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/9e5c23b49384dfe5fcf2d3518967b802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/9e5c23b49384dfe5fcf2d3518967b802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/544a5f3fa01b5b693dd23197c5998eae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/544a5f3fa01b5b693dd23197c5998eae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/895f41ab08c63d7baef89241dc97d207/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/895f41ab08c63d7baef89241dc97d207/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/b9ac6d3d7001beeacef80c951a5f5642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/b9ac6d3d7001beeacef80c951a5f5642/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/da5f4260546bb8a09328e3d5d8d528e2/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/da5f4260546bb8a09328e3d5d8d528e2/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ccchen/AndroidStudioProjects/FingerprintDialogKotlin/app/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/da5f4260546bb8a09328e3d5d8d528e2/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/da5f4260546bb8a09328e3d5d8d528e2/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ccchen/.gradle/caches/transforms-2/files-2.1/da5f4260546bb8a09328e3d5d8d528e2/AndroidManifest.xml:26:13-58
